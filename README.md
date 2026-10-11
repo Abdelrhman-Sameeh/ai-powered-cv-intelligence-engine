@@ -18,6 +18,23 @@ information is scattered across a resume. This project explores how a
 language model can help make that information easier to inspect by
 extracting key details into a readable profile.
 
+style:
+
+<img width="975" height="418" alt="image" src="https://github.com/user-attachments/assets/c62e5158-db1d-41d8-9c8a-976c669f7568" />
+
+uploading and extracting the important info:
+
+<img width="975" height="446" alt="image" src="https://github.com/user-attachments/assets/53752084-dc32-4991-a99b-e33848fc16c0" />
+
+<img width="975" height="939" alt="image" src="https://github.com/user-attachments/assets/f823b575-c14b-4110-ba25-b0e3d3be02c6" />
+
+
+
+
+
+
+
+
 ## Features
 
 -   Upload a CV in **PDF** format through a Streamlit interface.
